@@ -1,15 +1,16 @@
+<h1 style="color: #44AEFB; text-align: center;"> 👨🏻‍💻 Abdo Elkateb </h1>
 
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Abdo Elkateb </h1>
+<h1 style="color: #44AEFB; text-align: center;">  Front-End Developer  </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
-
+![github_cover_banner]https://www.seekpng.com/ipng/u2q8r5o0y3u2a9w7_aboutme-logo-about-me-png/)
+<h2 style="color: #44AEFB">⚙ About me</h2>
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 Freelancer Front-End Web Developer self-taught developer | I learn new things every day | I share here all that I learned<br>
 <br>
-<div align="center">
 
-[Email Me](abdoelkateb.dev@gmail.com)
-</div>
 </p>    
 <br>
 <!-- Languages and Tools -->

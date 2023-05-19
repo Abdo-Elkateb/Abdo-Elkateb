@@ -1,11 +1,11 @@
 ## Hi there, I'm Abdo Elkateb 👋 
 
 
-## I'm a Front-End Developer 🧑🏻‍💻
+## I'm a Front-End Developer 🧑‍💻
 
 # 💫 About Me:
-<br>Front-End Web Developer self-taught developer | I learn new things every day | I share here all that I learned
 
+Freelancer Front-End Web Developer self-taught developer | I learn new things every day | I share here all that I learned
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdo_elkateb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdo-elkateb) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdo__elkateb) 

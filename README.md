@@ -1,5 +1,6 @@
 <h1 align="center" style="color: #44AEFB;"> Hello!👋 I'm Abdo Elkateb </h1>
-<img style="background-size: cover;" src="./IMG_20221212_011631_521.jpg">
+
+![github_cover_banner](https://drive.google.com/file/d/1x8lqLuDf_OAakZ2YwwL02KQflS0N_A4P/view?usp=sharing)
 <h2 style="color: #44AEFB">⚙ Languages and Tools</h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 

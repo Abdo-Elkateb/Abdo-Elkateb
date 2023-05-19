@@ -1,5 +1,7 @@
-## Hi there, I'm Abdo Elkateb 👋<br>
-I'm a Front-End Developer 🧑🏻‍💻
+## Hi there, I'm Abdo Elkateb 👋 
+
+
+## I'm a Front-End Developer 🧑🏻‍💻
 
 # 💫 About Me:
 <br>Front-End Web Developer self-taught developer | I learn new things every day | I share here all that I learned

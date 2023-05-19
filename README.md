@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Front End Developer self-taught developer | I learn new things every day | I share here all that I learned.
+Front-End Web Developer self-taught developer | I learn new things every day | I share here all that I learned.
 
 
 ## 🌐 Socials:

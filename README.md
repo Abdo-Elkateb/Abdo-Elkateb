@@ -1,6 +1,6 @@
 ##
 
-## Hi there, I'm Abdo Elkateb 👋 
+## Hi there, I'm Abdelati 👋 
 
 
 ## I'm a Front-End Developer 🧑‍💻

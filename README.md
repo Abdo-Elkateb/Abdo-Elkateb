@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-banner-image-url.png" alt="Abdelati Elkateb - Frontend Developer" width="100%"/>
+  <img src="https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-desk-VUQnH1fo_Wk?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash" alt="Abdelati Elkateb - Frontend Developer" width="100%"/>
   
   # Hi, I'm Abdelati Elkateb 👋
   ### Frontend Developer specializing in React.js & Vue.js

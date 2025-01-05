@@ -15,7 +15,6 @@
 
 Frontend Developer with a passion for creating beautiful, responsive, and user-friendly web applications. Currently working at Zakat Fund as a React.js Developer, where I lead the development of their official website and administrative platforms.
 
-- 🔭 Currently working on: Zakat Fund's digital transformation
 - 🌱 Learning: Advanced React patterns and Vue.js ecosystem
 - 👯 Open to: Collaboration on innovative web projects
 - 📫 Reach me at: abdoelkateb.dev@gmail.com

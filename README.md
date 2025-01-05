@@ -13,9 +13,8 @@
 
 ## 🚀 About Me
 
-Frontend Developer with a passion for creating beautiful, responsive, and user-friendly web applications. Currently working at Zakat Fund as a React.js Developer, where I lead the development of their official website and administrative platforms.
+Hi, my name is Abdelati Elkateb. I’m a Front-End Developer with about 4 years of experience. I’m from Libya, where I currently live. Throughout my journey, I’ve worked with the two leading front-end technologies, React.js and Vue.js, in addition to having a solid foundation in core technologies such as HTML, CSS, and JavaScript. I’m passionate about education and deeply involved in this cause.
 
-- 🔭 Currently working on: Zakat Fund's digital transformation
 - 🌱 Learning: Advanced React patterns and Vue.js ecosystem
 - 👯 Open to: Collaboration on innovative web projects
 - 📫 Reach me at: abdoelkateb.dev@gmail.com

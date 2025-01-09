@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Frontend Developer with a passion for creating beautiful, responsive, and user-friendly web applications. Currently working at Zakat Fund as a React.js Developer, where I lead the development of their official website and administrative platforms.
+Dedicated to crafting sleek, high-performance web solutions that elevate user engagement. With a mastery of cutting-edge technologies, I create responsive, intuitive interfaces that deliver seamless experiences. Passionate about driving continuous innovation and setting new standards in the dynamic world of frontend development.
 
 - 🌱 Learning: Advanced React patterns and Vue.js ecosystem
 - 👯 Open to: Collaboration on innovative web projects

@@ -2,7 +2,7 @@
 
   
   # Hi, I'm Abdelati Elkateb 👋
-  ### Frontend Developer specializing in React.js & Vue.js
+  ### Frontend Developer | React.js | Vue.js | TypeScript
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoelkateb.dev@gmail.com)

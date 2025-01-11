@@ -1,5 +1,4 @@
 <div align="center">
-
   
   # Hi, I'm Abdelati Elkateb 👋
   ### Frontend Developer | React.js | Vue.js | TypeScript
@@ -32,6 +31,9 @@ Dedicated to crafting sleek, high-performance web solutions that elevate user en
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Vue Material](https://img.shields.io/badge/Vue_Material-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
